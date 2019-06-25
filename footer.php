@@ -62,6 +62,8 @@
 
         $('.opacity_div').css('z-index', '222');
         $('.opacity_div').css('display', 'block');
+        $('.opacity_div').css('position','fixed');
+        $('.menu').css('position', 'fixed');
     })
 
     $('.fas.fa-times').click(function () {

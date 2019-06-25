@@ -10,6 +10,7 @@ include 'header.php';
 
             <ul class="main-nav">
                 <li style="color: black">+374 60 51 11 55</li>
+                <li><a href="profile.php" style="text-decoration: none; color: #000;">Hayk Hakobyan</a></li>
                 <li><a href="registration.php"><i style="color: black" class="fas fa-sign-in-alt"></i></a></li>
                 <li class="open_menu"><i style="color: black" class="fas fa-bars"></i></li>
             </ul>
